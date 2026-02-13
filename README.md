@@ -20,7 +20,7 @@ Bu proje **Windows Forms** mimarisi üzerinde geliştirilmektedir.
 - **Dil:** C# (.NET)
 - **Arayüz:** Windows Forms (Modern UI)
 - **Veritabanı:** SQLite (Yerel Veritabanı)
-- **Araçlar:** Visual Studio 2022, Git & GitHub
+- **Araçlar:** Visual Studio 2026, Git & GitHub
 
 ## 📂 Proje Klasör Yapısı
 Proje dosyaları aşağıdaki standartlara göre düzenlenmiştir:
